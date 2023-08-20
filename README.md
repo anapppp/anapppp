@@ -1,16 +1,15 @@
-### Hi there 👋
+# ♾️ Sobre mim (PT) 🧉
 
-<!--
-**anapppp/anapppp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou uma mulher inquieta, curiosa e criativa. Depois de me formar em Engenharia, passei pelo cinema e pela docência até chegar ao mundo do áudio e da produção musical. Meu maior interesse está na interface entre música, arte, tecnologia e ciência.
 
-Here are some ideas to get you started:
+## Habilidades
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Python | Javascript | Node JS | Git | GitHub |
+
+# ♾️ About Me (EN) 🍩
+
+I am a curious and creative woman. After graduating in Engineering, I went through cinema and teaching to reach the world of audio and music production. My main interest is in the interface between music, art, technology and science.
+
+## Skills
+
+| Python | Javascript | Node JS | Git | GitHub |
