@@ -8,7 +8,6 @@ Sou uma mulher inquieta, curiosa e criativa. Depois de me formar em Engenharia, 
 [![E-mail](https://img.shields.io/badge/-Email-E60177?style=for-the-badge&logo=microsoft-outlook&logoColor=17CEE6)](mailto:anapaula.ksoares@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-E60177?style=for-the-badge&logo=linkedin&logoColor=17CEE6)](https://www.linkedin.com/in/anapaulaksoares/)
 [![Instagram](https://img.shields.io/badge/-Instagram-E60177?style=for-the-badge&logo=instagram&logoColor=17CEE6)](https://www.instagram.com/_ana.kelm/)
-[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-990F56?style=for-the-badge)](https://web.dio.me/users/anapaula_ksoares/)
 
 ### Habilidades
 ![Python](https://img.shields.io/badge/Python-E60177?style=for-the-badge&logo=python&logoColor=17CEE6)
