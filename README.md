@@ -5,7 +5,6 @@
 Sou uma mulher inquieta, curiosa e criativa. Depois de me formar em Engenharia, passei pelo cinema, pela produção musical, sound design e games. Meu maior interesse está na interface entre música, arte, tecnologia e ciência.
 ### Conecte-se comigo
 
-[![E-mail](https://img.shields.io/badge/-Email-E60177?style=for-the-badge&logo=microsoft-outlook&logoColor=17CEE6)](mailto:anapaula.ksoares@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-E60177?style=for-the-badge&logo=linkedin&logoColor=17CEE6)](https://www.linkedin.com/in/anapaulaksoares/)
 [![Instagram](https://img.shields.io/badge/-Instagram-E60177?style=for-the-badge&logo=instagram&logoColor=17CEE6)](https://www.instagram.com/_ana.kelm/)
 
