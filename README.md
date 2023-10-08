@@ -29,6 +29,5 @@ Sou uma mulher inquieta, curiosa e criativa. Depois de me formar em Engenharia, 
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=anapppp&layout=compact&bg_color=000&border_color=30A3DC&title_color=EA469B&text_color=FFF)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anapppp&repo=material-de-estudos-js-backend&layout=compact&bg_color=000&border_color=30A3DC&title_color=EA469B&text_color=FFF)](https://github.com/anapppp/material-de-estudos-js-backend)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anapppp&repo=IA-generativa-aplicada-a-uma-API-de-sistema-bancario&layout=compact&bg_color=000&border_color=30A3DC&title_color=EA469B&text_color=FFF)](https://github.com/anapppp/IA-generativa-aplicada-a-uma-API-de-sistema-bancario)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anapppp&repo=material-de-estudo-python-data-science&layout=compact&bg_color=000&border_color=30A3DC&title_color=EA469B&text_color=FFF)](https://github.com/anapppp/material-de-estudo-python-data-science)
