@@ -12,7 +12,6 @@ Sou uma mulher inquieta, curiosa e criativa. Depois de me formar em Engenharia, 
 ![Python](https://img.shields.io/badge/Python-E60177?style=for-the-badge&logo=python&logoColor=17CEE6)
 ![JavaScript](https://img.shields.io/badge/JavaScript-E60177?style=for-the-badge&logo=javascript&logoColor=17CEE6)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-E60177?style=for-the-badge&logo=PostgreSQL&logoColor=17CEE6)
-![TypeScript](https://img.shields.io/badge/TypeScript-E60177?style=for-the-badge&logo=typescript&logoColor=17CEE6)
 ![HTML](https://img.shields.io/badge/html-E60177?style=for-the-badge&logo=html5&logoColor=17CEE6)
 ![CSS](https://img.shields.io/badge/CSS-E60177?style=for-the-badge&logo=css3&logoColor=17CEE6)
 
