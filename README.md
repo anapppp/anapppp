@@ -6,9 +6,9 @@ Sou uma mulher inquieta, curiosa e criativa. Depois de me formar em Engenharia, 
 ### Conecte-se comigo
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-E60177?style=for-the-badge&logo=linkedin&logoColor=17CEE6)](https://www.linkedin.com/in/anapaulaksoares/)
-[![Instagram](https://img.shields.io/badge/-Instagram-E60177?style=for-the-badge&logo=instagram&logoColor=17CEE6)](https://www.instagram.com/_ana.kelm/)
 
 ### Habilidades
+![Flutter](https://img.shields.io/badge/Flutter-E60177?style=for-the-badge&logo=flutter&logoColor=17CEE6)
 ![Python](https://img.shields.io/badge/Python-E60177?style=for-the-badge&logo=python&logoColor=17CEE6)
 ![JavaScript](https://img.shields.io/badge/JavaScript-E60177?style=for-the-badge&logo=javascript&logoColor=17CEE6)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-E60177?style=for-the-badge&logo=PostgreSQL&logoColor=17CEE6)
